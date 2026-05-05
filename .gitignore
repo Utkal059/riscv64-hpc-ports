@@ -11,3 +11,6 @@
 !test_spooles.c
 !PROOF.txt
 !build_spooles.sh
+!scripts/
+!scripts/*.sh
+!riscv64-toolchain.cmake
