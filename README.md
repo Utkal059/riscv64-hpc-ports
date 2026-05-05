@@ -1,25 +1,22 @@
-# riscv64-hpc-ports
+# RISC-V HPC Ports
 
-Cross-compilation and QEMU validation environment for the LFX Mentorship project: 
-"Broadening the RISC-V High Precision Code Base and Reach" (clusterchallenge / MIT, Kurt Keville).
+Cross-compiled HPC math libraries for RISC-V (riscv64) architecture on Ubuntu 24.04 (x86_64 host).
+
+## Stack
+
+| Library     | Version       | Status   | Verified via QEMU |
+|-------------|---------------|----------|-------------------|
+| OpenBLAS    | 0.3.33-dev    | ✅ Built | ✅ ELF RISC-V     |
+| ARPACK-NG   | latest main   | ✅ Built | ✅ ELF RISC-V     |
+| SuperLU     | latest main   | ✅ Built | ✅ 1154 tests pass|
 
 ## Toolchain
-- `gcc-riscv64-linux-gnu` — cross-compiler  
-- `qemu-riscv64-static` — user-mode emulation for runtime validation  
-- Host: Ubuntu (WSL2)
 
-## Status
+- Host: x86_64 Ubuntu 24.04
+- Target: riscv64-linux-gnu
+- C Compiler: riscv64-linux-gnu-gcc 13.3.0
+- Fortran: riscv64-linux-gnu-gfortran 13.3.0
+- ABI: lp64d (double-float)
+- ISA: rv64imafdc
 
-| Code      | Cross-compile | qemu-riscv64 link+run | .deb |
-|-----------|---------------|----------------------|------|
-| baseline (libm sqrt) | ✅ | ✅ | — |
-| SPOOLES 2.2 | ✅ | ✅ | 🔄 next |
-
-## Build notes
-
-### SPOOLES 2.2
-- Modern GCC requires `-fcommon` for the legacy global-variable layout
-- All warnings are pre-existing format-specifier issues in upstream code (1990s codebase); no functional impact
-- Cross-compiled with `CC=riscv64-linux-gnu-gcc CFLAGS="-fcommon -O2"`
-- Validated by linking `test_spooles.c` against `spooles.a` and executing under `qemu-riscv64-static`
-
+## Key Build Flags
