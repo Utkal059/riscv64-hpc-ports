@@ -1,0 +1,11 @@
+=== Host environment ===
+Linux DESKTOP-PU4IGQQ 6.6.87.2-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Thu Jun  5 18:30:46 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
+riscv64-linux-gnu-gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
+qemu-riscv64 version 8.2.2 (Debian 1:8.2.2+ds-0ubuntu1.16)
+
+=== Binary verification ===
+test_spooles: ELF 64-bit LSB executable, UCB RISC-V, RVC, double-float ABI, version 1 (SYSV), statically linked, BuildID[sha1]=652d3009a8606b9caccc679f489f67e3f8c05456, for GNU/Linux 4.15.0, not stripped
+
+=== Execution under qemu-riscv64-static ===
+SPOOLES on RISC-V: DV size = 5
+Entries: 1.50 3.00 4.50 6.00 7.50 
