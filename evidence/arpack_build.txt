@@ -1,0 +1,105 @@
+[  1%] Building Fortran object CMakeFiles/arpack.dir/UTIL/icnteq.f.o
+[  2%] Building Fortran object CMakeFiles/arpack.dir/UTIL/icopy.f.o
+[  3%] Building Fortran object CMakeFiles/arpack.dir/UTIL/iset.f.o
+[  4%] Building Fortran object CMakeFiles/arpack.dir/UTIL/iswap.f.o
+[  5%] Building Fortran object CMakeFiles/arpack.dir/UTIL/smout.f.o
+[  6%] Building Fortran object CMakeFiles/arpack.dir/UTIL/ivout.f.o
+[  7%] Building Fortran object CMakeFiles/arpack.dir/UTIL/second_NONE.f.o
+[  8%] Building Fortran object CMakeFiles/arpack.dir/UTIL/svout.f.o
+[  9%] Building Fortran object CMakeFiles/arpack.dir/UTIL/dvout.f.o
+[ 11%] Building Fortran object CMakeFiles/arpack.dir/UTIL/cvout.f.o
+[ 12%] Building Fortran object CMakeFiles/arpack.dir/UTIL/cmout.f.o
+[ 12%] Building Fortran object CMakeFiles/arpack.dir/UTIL/dmout.f.o
+[ 13%] Building Fortran object CMakeFiles/arpack.dir/UTIL/zvout.f.o
+[ 14%] Building Fortran object CMakeFiles/arpack.dir/UTIL/zmout.f.o
+[ 15%] Building Fortran object CMakeFiles/arpack.dir/SRC/ccdotc.f.o
+[ 16%] Building Fortran object CMakeFiles/arpack.dir/SRC/cgetv0.f.o
+[ 17%] Building Fortran object CMakeFiles/arpack.dir/SRC/cnaitr.f.o
+[ 18%] Building Fortran object CMakeFiles/arpack.dir/SRC/cnapps.f.o
+[ 19%] Building Fortran object CMakeFiles/arpack.dir/SRC/cnaup2.f.o
+[ 20%] Building Fortran object CMakeFiles/arpack.dir/SRC/cnaupd.f.o
+[ 21%] Building Fortran object CMakeFiles/arpack.dir/SRC/cneigh.f.o
+[ 22%] Building Fortran object CMakeFiles/arpack.dir/SRC/cneupd.f.o
+[ 23%] Building Fortran object CMakeFiles/arpack.dir/SRC/cngets.f.o
+[ 24%] Building Fortran object CMakeFiles/arpack.dir/SRC/csortc.f.o
+[ 25%] Building Fortran object CMakeFiles/arpack.dir/SRC/cstatn.f.o
+[ 26%] Building Fortran object CMakeFiles/arpack.dir/SRC/dgetv0.f.o
+[ 27%] Building Fortran object CMakeFiles/arpack.dir/SRC/dnaitr.f.o
+[ 28%] Building Fortran object CMakeFiles/arpack.dir/SRC/dnapps.f.o
+[ 29%] Building Fortran object CMakeFiles/arpack.dir/SRC/dnaup2.f.o
+[ 30%] Building Fortran object CMakeFiles/arpack.dir/SRC/dnaupd.f.o
+[ 31%] Building Fortran object CMakeFiles/arpack.dir/SRC/dnconv.f.o
+[ 32%] Building Fortran object CMakeFiles/arpack.dir/SRC/dneigh.f.o
+[ 33%] Building Fortran object CMakeFiles/arpack.dir/SRC/dneupd.f.o
+[ 34%] Building Fortran object CMakeFiles/arpack.dir/SRC/dngets.f.o
+[ 35%] Building Fortran object CMakeFiles/arpack.dir/SRC/dsaitr.f.o
+[ 36%] Building Fortran object CMakeFiles/arpack.dir/SRC/dsapps.f.o
+[ 38%] Building Fortran object CMakeFiles/arpack.dir/SRC/dsaupd.f.o
+[ 38%] Building Fortran object CMakeFiles/arpack.dir/SRC/dsaup2.f.o
+[ 39%] Building Fortran object CMakeFiles/arpack.dir/SRC/dsconv.f.o
+[ 40%] Building Fortran object CMakeFiles/arpack.dir/SRC/dseigt.f.o
+[ 41%] Building Fortran object CMakeFiles/arpack.dir/SRC/dsesrt.f.o
+[ 42%] Building Fortran object CMakeFiles/arpack.dir/SRC/dseupd.f.o
+[ 43%] Building Fortran object CMakeFiles/arpack.dir/SRC/dsgets.f.o
+[ 44%] Building Fortran object CMakeFiles/arpack.dir/SRC/dsortc.f.o
+[ 45%] Building Fortran object CMakeFiles/arpack.dir/SRC/dstatn.f.o
+[ 46%] Building Fortran object CMakeFiles/arpack.dir/SRC/dsortr.f.o
+[ 47%] Building Fortran object CMakeFiles/arpack.dir/SRC/dstats.f.o
+[ 50%] Building Fortran object CMakeFiles/arpack.dir/SRC/sgetv0.f.o
+[ 50%] Building Fortran object CMakeFiles/arpack.dir/SRC/dstqrb.f.o
+[ 51%] Building Fortran object CMakeFiles/arpack.dir/SRC/snaitr.f.o
+[ 52%] Building Fortran object CMakeFiles/arpack.dir/SRC/snapps.f.o
+[ 53%] Building Fortran object CMakeFiles/arpack.dir/SRC/snaup2.f.o
+[ 54%] Building Fortran object CMakeFiles/arpack.dir/SRC/snaupd.f.o
+[ 56%] Building Fortran object CMakeFiles/arpack.dir/SRC/sneigh.f.o
+[ 56%] Building Fortran object CMakeFiles/arpack.dir/SRC/snconv.f.o
+[ 57%] Building Fortran object CMakeFiles/arpack.dir/SRC/sneupd.f.o
+[ 58%] Building Fortran object CMakeFiles/arpack.dir/SRC/sngets.f.o
+[ 59%] Building Fortran object CMakeFiles/arpack.dir/SRC/ssaitr.f.o
+[ 61%] Building Fortran object CMakeFiles/arpack.dir/SRC/ssapps.f.o
+[ 61%] Building Fortran object CMakeFiles/arpack.dir/SRC/ssaup2.f.o
+[ 62%] Building Fortran object CMakeFiles/arpack.dir/SRC/ssaupd.f.o
+[ 63%] Building Fortran object CMakeFiles/arpack.dir/SRC/ssconv.f.o
+[ 64%] Building Fortran object CMakeFiles/arpack.dir/SRC/sseigt.f.o
+[ 65%] Building Fortran object CMakeFiles/arpack.dir/SRC/ssesrt.f.o
+[ 66%] Building Fortran object CMakeFiles/arpack.dir/SRC/sseupd.f.o
+[ 67%] Building Fortran object CMakeFiles/arpack.dir/SRC/ssgets.f.o
+[ 68%] Building Fortran object CMakeFiles/arpack.dir/SRC/ssortc.f.o
+[ 69%] Building Fortran object CMakeFiles/arpack.dir/SRC/ssortr.f.o
+[ 70%] Building Fortran object CMakeFiles/arpack.dir/SRC/sstatn.f.o
+[ 71%] Building Fortran object CMakeFiles/arpack.dir/SRC/sstqrb.f.o
+[ 72%] Building Fortran object CMakeFiles/arpack.dir/SRC/sstats.f.o
+[ 73%] Building Fortran object CMakeFiles/arpack.dir/SRC/zgetv0.f.o
+[ 74%] Building Fortran object CMakeFiles/arpack.dir/SRC/znaitr.f.o
+[ 75%] Building Fortran object CMakeFiles/arpack.dir/SRC/znapps.f.o
+[ 76%] Building Fortran object CMakeFiles/arpack.dir/SRC/znaup2.f.o
+[ 77%] Building Fortran object CMakeFiles/arpack.dir/SRC/znaupd.f.o
+[ 78%] Building Fortran object CMakeFiles/arpack.dir/SRC/zneigh.f.o
+[ 79%] Building Fortran object CMakeFiles/arpack.dir/SRC/zneupd.f.o
+[ 80%] Building Fortran object CMakeFiles/arpack.dir/SRC/zngets.f.o
+[ 81%] Building Fortran object CMakeFiles/arpack.dir/SRC/zsortc.f.o
+[ 83%] Building Fortran object CMakeFiles/arpack.dir/SRC/zzdotc.f.o
+[ 83%] Building Fortran object CMakeFiles/arpack.dir/SRC/zstatn.f.o
+[ 84%] Building Fortran object CMakeFiles/arpack.dir/dbgini.f.o
+[ 85%] Building Fortran object CMakeFiles/arpack.dir/staini.f.o
+[ 86%] Linking Fortran static library libarpack.a
+[ 86%] Built target arpack
+[ 89%] Building Fortran object CMakeFiles/bug_58_double.dir/TESTS/bug_58_double.f.o
+[ 89%] Building Fortran object CMakeFiles/bug_142_gen.dir/TESTS/bug_142_gen.f.o
+[ 90%] Building Fortran object CMakeFiles/bug_1323.dir/TESTS/bug_1323.f.o
+[ 89%] Building Fortran object CMakeFiles/bug_79_double_complex.dir/TESTS/bug_79_double_complex.f.o
+[ 92%] Building Fortran object CMakeFiles/bug_142.dir/TESTS/bug_142.f.o
+[ 92%] Building Fortran object CMakeFiles/dnsimp_test.dir/TESTS/dnsimp.f.o
+[ 93%] Building Fortran object CMakeFiles/dnsimp_test.dir/TESTS/mmio.f.o
+[ 94%] Linking Fortran executable TESTS/bug_79_double_complex
+[ 95%] Linking Fortran executable TESTS/bug_1323
+[ 96%] Linking Fortran executable TESTS/bug_142
+[ 97%] Linking Fortran executable TESTS/bug_142_gen
+[ 98%] Linking Fortran executable TESTS/bug_58_double
+[ 98%] Built target bug_79_double_complex
+[ 98%] Built target bug_1323
+[ 98%] Built target bug_142_gen
+[ 98%] Built target bug_58_double
+[ 98%] Built target bug_142
+[100%] Linking Fortran executable TESTS/dnsimp
+[100%] Built target dnsimp_test
