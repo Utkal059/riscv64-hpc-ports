@@ -1,16 +1,6 @@
-# Ignore everything by default
-*
-
-# Allow directory traversal
-!*/
-
-# Explicitly allow only YOUR files
-!.gitignore
-!README.md
-!test_sqrt.c
-!test_spooles.c
-!PROOF.txt
-!build_spooles.sh
-!scripts/
-!scripts/*.sh
-!riscv64-toolchain.cmake
+OpenBLAS/
+arpack-ng/
+arpack/
+superlu/
+*.o
+*.mod

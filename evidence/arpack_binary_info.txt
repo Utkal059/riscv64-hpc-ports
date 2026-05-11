@@ -1,0 +1,5 @@
+architecture: riscv:rv64, flags 0x00000011:
+architecture: riscv:rv64, flags 0x00000011:
+architecture: riscv:rv64, flags 0x00000011:
+  Class:                             ELF64
+  Machine:                           RISC-V
