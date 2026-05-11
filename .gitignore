@@ -4,3 +4,30 @@ arpack/
 superlu/
 *.o
 *.mod
+# SPOOLES source (extracted in-place)
+*.h
+*.tgz
+*.html
+makeLib
+makefile
+dotar
+updLib
+cfiles.h
+misc.h
+timings.h
+spooles.a
+test_spooles
+test_sqrt
+A2/ BKL/ BPG/ Chv/ ChvList/ ChvManager/ Coords/ DSTree/
+DV/ DenseMtx/ Drand/ EGraph/ ETree/ Eigen/ FrontMtx/
+GPart/ Graph/ I2Ohash/ IIheap/ ILUMtx/ IV/ IVL/ Ideq/
+InpMtx/ Iter/ LinSol/ Lock/ MPI/ MSMD/ MT/ Matrices/
+Network/ PatchAndGoInfo/ Pencil/ Perm/ SemiImplMtx/
+SolveMap/ SubMtx/ SubMtxList/ SubMtxManager/ SymbFac/
+Tree/ Utilities/ ZV/ documentation/ misc/
+# Install dirs and logs
+arpack-install/
+openblas-install/
+superlu-install/
+superlu-build.log
+Make.inc
